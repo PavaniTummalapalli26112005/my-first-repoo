@@ -1,3 +1,4 @@
 Name: Pavani
-Course: Devops
+Course: Data Science
+
 Feedback: I learned creating new repository only from the past class
